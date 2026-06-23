@@ -100,13 +100,10 @@ The dashboard helps management understand:
 
 # 👨‍💻 Author
 
-**Your Name**
+**Ayush Raj**
 
 Mechanical Engineering Student  
 BIT Mesra, Ranchi
 
 Aspiring Data Analyst
 
----
-
-⭐ If you found this project useful, feel free to star the repository.
